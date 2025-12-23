@@ -81,6 +81,18 @@ Any alteration resulted in **hash chain verification failure**, proving tamper d
 - Demonstrated forensic readiness of low-cost IoT hardware
 
 ---
+## 🎥 Demo Video
+
+A demonstration of the complete system workflow, including log generation, hash chaining, tampering simulation, and forensic verification, is available at the link below:
+
+🔗 **Demo Video:** https://youtu.be/pL5St93XZ0g?si=cstGCZb7T-Y8bX20
+
+The video showcases:
+- Real-time data logging on ESP32  
+- Secure hash-chain based log storage  
+- Manual and remote tampering attempts  
+- Detection of integrity violations during verification  
+
 
 ## 📚 Learning & Insights
 
